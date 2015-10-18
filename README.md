@@ -1,0 +1,2 @@
+# bluapp
+blog lectura
